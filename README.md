@@ -1,2 +1,2 @@
 # vectores_bases_de_datos
-repositorios y bases de datos
+vectores matrices y bases de datos
